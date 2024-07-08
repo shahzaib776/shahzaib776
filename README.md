@@ -1,4 +1,4 @@
-# Hello there 👋, I'm Shahzaib, but also a
+# Hello there 👋, I'm Shahzaib, but I'm also a
 
 ### Software/DevOps/Machine Learning Engineer
 
@@ -15,7 +15,7 @@
     <tr>
         <th>My Blog</th>
         <th>My Website</th>
-        <th>My CV</th>
+        <th>My Resume</th>
     </tr>
     <tr>
         <td>
